@@ -47,3 +47,13 @@ Responsive design testing
 What I Learned
 
 This project helped me practice managing website content in WordPress, configuring plugins, building page layouts with blocks, connecting pages through navigation and buttons, and testing website functionality across screen sizes.
+
+Screenshots
+
+Home Page
+
+Services Page
+
+Contact Page
+
+About Page
